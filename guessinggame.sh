@@ -1,4 +1,4 @@
-echo "[Guessing game]"
+echo "[The Guessing game]"
 
 function ask {
 echo "Guess how many files are in the current directory?:"
